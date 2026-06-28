@@ -1,0 +1,2 @@
+## 🚀 Deployment & Local Network Note
+The interactive frontend UI layout and dashboard features are deployed live via Vercel for visual evaluation. Due to administrative outbound port restrictions on cloud database clusters within my immediate network environment, the backend server and data persistence layer are configured to run locally with a local MongoDB instance. The complete, clean full-stack code is fully modular and structured inside the repository for thorough review.
